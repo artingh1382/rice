@@ -1,0 +1,12 @@
+cyan: #00F39C
+purple: #B700FF
+
+orange: #FF990C
+blue: #0C7AFF
+
+grey: #727272
+white: #FFFFFF
+
+red: #FF0000
+yellow: #E7FF00
+

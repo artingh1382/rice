@@ -1,0 +1,29 @@
+add_newline = false
+
+
+
+
+
+
+[line_break]
+disabled = true
+
+[python]
+disabled = true
+
+[time]
+disabled = true
+
+[cmd_duration]
+disabled = true
+
+[javascript]
+disabled = true
+
+[html]
+disabled = true
+
+[package]
+disabled = true
+
+

@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/artin/.vim'
+let g:netrw_dirhist_1='/home/artin/Data/text/documents/science/coding projects/personal projects/python'
+let g:netrw_dirhist_0='/home/artin'
+let g:netrw_dirhist_9='/home/artin/Data/HD/text/documents/science/coding projects/personal projects/python'
+let g:netrw_dirhist_8='/home/artin/Data/HD/text/documents/science/coding projects/personal projects'
+let g:netrw_dirhist_7='/home/artin/Data/HD/text/documents/science/coding projects'
+let g:netrw_dirhist_6='/home/artin/Data/HD/text/documents/science'
+let g:netrw_dirhist_5='/home/artin/Data/HD/text/documents'
+let g:netrw_dirhist_4='/home/artin/Data/HD/text'
+let g:netrw_dirhist_3='/home/artin/Data/HD'
